@@ -2,14 +2,14 @@
 Angular 4 Dynamic Router with Electron
 
 
-sing Angular4 with Dynamic Router/loading in Electron
+Using Angular4 with Dynamic Router/loading in Electron
 
 
 First thing of first, make sure https://nodejs.org installed on your computer.
 
 
 
-After download
+After download, go to folder where package.json is
 
 npm install
 npm start
