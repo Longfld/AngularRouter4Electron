@@ -27,7 +27,7 @@
     "@types/core-js": "0.9.34",
     "@types/node": "6.0.46",
     "concurrently": "3.2.0",
-    "electron": "2.0.8",
+    "electron": "9.1.0",
     "typescript": "2.2.2"
   }
 }
